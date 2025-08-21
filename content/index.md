@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Butterflies, Moths, and Much More
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+I have been fascinated with moths, butterflies, and all insects and plan to fill this with information regarding many species, breeds, and information about the diversity of our planets smallest creatures.
 
 ## Editing pages
 
