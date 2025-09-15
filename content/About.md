@@ -1,3 +1,3 @@
-My Name is Zoe Ellzey. I grew up near Austin Texas with my three sisters. My twin and I are the oldest of our sisters, _I am the younger of us two_._ I am engaged  and hoping to get married in October 2027. I love all things nature, and recently I have found that is especially bugs.
+My Name is Zoe Ellzey. I grew up near Austin Texas with my three sisters. My twin and I are the oldest of our sisters, _I am the younger of us two_. I am engaged  and hoping to get married in October 2027. I love all things nature, and recently I have found that is especially bugs.
 
-I have been fascinated with moths, butterflies, and all insects and plan to fill this with information regarding many species, breeds, and information about the diversity of our planets smallest creatures.
+I have been fascinated with moths, butterflies, and all [[index |insects]] and plan to fill this with information regarding many species, breeds, and information about the diversity of our planets smallest creatures.
