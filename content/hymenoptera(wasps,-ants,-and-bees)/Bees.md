@@ -1,1 +1,7 @@
-(superfamily Apoidea)
+## *Superfamily Apoidea*
+
+Bees are found on every continent on the planet except Antarctica, and every habitat that contains flowers. Bees are considered some of the most well studied of insects and are incredible familiar to most. There are over 20,00 species of bees across the world. Bees have a long tube-like proboscis that allows them to obtain nectar from flowers and adults can range in size from 2-40 millimeters. 
+
+Bees can be divided in to two main sub-categories, social and solitary. Solitary bees tend to feed their young plant material, like pollen and nectar, as they do not produce honey. They do raise their young in nest though they are individual and are often constructed underground or in other hollow plants as they do not produce wax. Where as social bees build communal nest, for example bumble bees build nests underground, similar to many [[Ants]] nests. Another social bee would be Honey bees who ten to build communal nests in cavities, similar to some species of [[Wasps]]. 
+
+Even within the social bees there are considered to be two levels or sociality. Some are considered "semi-social" where groups of sisters cohabitate and device labor between them. While others are referred to as "eusocial" as they have a higher level or sociality and have the presence of a queen that gives birth to sterile females that are categorized as *workers*. The workers will carry out specialized tasks within the colony.  Some eusocial colonies are considered primitive as they will have smaller numbers and the workers are still relatively similar to the queen. While others are more evolved and and the various castes will differ greatly on a morphological level with populations upwards of 40,000.  
