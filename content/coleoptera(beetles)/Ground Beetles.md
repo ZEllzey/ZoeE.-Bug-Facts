@@ -1,0 +1,3 @@
+## Family *Carabidae*
+
+The family of Ground [[coleoptera(beetles)/index|beetles]] is consider some of the best studied insects. This family consists of over 40,000 named species. Most species are flightless, and if they do have wings they are short and rarely used. They beetles are mainly ground dwellers and are very swift runners. Most Ground beetles are predatory and often specialize in catching Springtails, though some do eat snails. These beetles can be very beneficial to agriculture as they often eat the eggs of many pest insects.
