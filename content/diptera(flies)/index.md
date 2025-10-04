@@ -1,3 +1,4 @@
 ---
 title: Diptera(flies)
 ---
+The order *Diptera* contains the insects know as true flies. This is the largest order of insects with estimated 85,000-100,000 different species. The name Diptera comes from the Greek words meaning "two wing" as true flies only have one set on wings. This characteristic is what separates them from other insects referred to as flies. This order is very diverse and is found on every continent except Antarctica. True Files are considered one of the worlds most widely distributed animals. Fly species can vary from carnivores to herbivores, flying to flightless, and parasitic larvae to parasitic adults such as [[Mosquitoes]]. 
